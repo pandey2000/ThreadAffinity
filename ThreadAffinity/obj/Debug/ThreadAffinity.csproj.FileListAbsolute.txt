@@ -1,0 +1,15 @@
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\bin\Debug\ThreadAffinity.exe.config
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\bin\Debug\ThreadAffinity.exe
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\bin\Debug\ThreadAffinity.pdb
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.csprojAssemblyReference.cache
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\MainWindow.g.cs
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\App.g.cs
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity_MarkupCompile.cache
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity_MarkupCompile.lref
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\MainWindow.baml
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.g.resources
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.Properties.Resources.resources
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.csproj.GenerateResource.cache
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.csproj.CoreCompileInputs.cache
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.exe
+C:\Users\t-ampand\source\repos\ThreadAffinity\ThreadAffinity\obj\Debug\ThreadAffinity.pdb
